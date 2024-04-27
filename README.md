@@ -1,3 +1,6 @@
+[LINK DO SONARCLOUD](https://sonarcloud.io/summary/overall?id=vargasdani_CP2_1SEM_QA) 
+OBS: senha da organização é vargasdani
+
 # API de Consulta do IBGE
 
 Este projeto é uma simples aplicação Java que utiliza a API do IBGE para consultar informações sobre estados brasileiros.
